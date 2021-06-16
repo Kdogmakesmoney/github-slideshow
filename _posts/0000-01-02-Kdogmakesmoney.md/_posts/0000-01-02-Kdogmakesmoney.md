@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide!"
 ---
-Your text
+**life is a bitch**
 Use the left arrow to go back!
